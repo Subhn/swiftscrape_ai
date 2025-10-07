@@ -5,4 +5,5 @@ beautifulsoup4
 requests
 pandas
 matplotlib
-reportlab             # Required for PDF export feature
+reportlab    
+google.generativeai   # Required for PDF export feature
