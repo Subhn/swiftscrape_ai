@@ -1,0 +1,9 @@
+streamlit
+google-genai
+selenium
+beautifulsoup4
+requests
+pandas
+matplotlib
+reportlab # Optional, if you want PDF export
+webdriver-manager # Needed for local testing, but usually removed for cloud deployment (see step 3)

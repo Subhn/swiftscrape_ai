@@ -1,0 +1,15 @@
+# Python environment
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Deployment Secrets
+.streamlit/secrets.toml  # DANGER: Prevents API keys from being uploaded!
+
+# Selenium/Webdriver files
+*.log
